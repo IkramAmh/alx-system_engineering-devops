@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((printev TRUEKNOWLEDGE + 128))
+echo $((128 + $TRUEKNOWLEDGE))
